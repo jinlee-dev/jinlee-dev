@@ -21,9 +21,9 @@
 ### Tools
 ![SVN](https://img.shields.io/badge/SVN-4495D1.svg?&style=for-the-bacge&logo=Svn&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-bacge&logo=Git&logoColor=white)
-</div>
 
 ### I'm currently studying ✏
 
 ![Unity](https://img.shields.io/badge/Unity-FFFFFF.svg?&style=for-the-bacge&logo=Unity&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-bacge&logo=GitHub&logoColor=white)
+</div>
