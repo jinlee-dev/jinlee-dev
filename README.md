@@ -20,11 +20,12 @@
 ### Collaboration
 ![Jira](https://img.shields.io/badge/Jira-0052CC.svg?&style=for-the-bacge&logo=Jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D.svg?&style=for-the-bacge&logo=Confluence&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-bacge&logo=GitHub&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-bacge&logo=Git&logoColor=white)
 
 ### I'm currently studying 💻
-![OpenGL](https://img.shields.io/badge/Unity-FFFFFF.svg?&style=for-the-bacge&logo=Unity&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-bacge&logo=GitHub&logoColor=white)
-![GitHub](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-bacge&logo=Git&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-FFFFFF.svg?&style=for-the-bacge&logo=Unity&logoColor=white)
+
 
 ## Github Analytics
 ![본인ID's github stats](https://github-readme-stats.vercel.app/api?username=jinlee-dev&show_icons=true)
